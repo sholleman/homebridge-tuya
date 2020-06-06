@@ -30,6 +30,8 @@ If you spot any errors with the plugin, or have a question, feel free to open a 
 
 Please be sure to check the Common Issues tab in the wiki, before you open an issue.
 
+My goal is to reply to an issue within 48 hours. If I am delayed, please @ me so I can get the notification, or shoot me a tweet @iRayanKhan. 
+
 ## Contribution guide
 
 Any help is welcome! 
