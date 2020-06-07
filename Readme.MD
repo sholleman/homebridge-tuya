@@ -1,12 +1,13 @@
-<p align="center">
-    <img src="https://github.com/iRayanKhan/Assets-Repo/blob/master/Tuya-Plugin-Branding.png?raw=true" alt="BrandingLogo" width="400” maxHeight="91" /></p>      
-                                                                                                                                              
 <span align="center">
+
+<a href="https://github.com/iRayanKhan/Assets-Repo/blob/master/Tuya-Plugin-Branding.png?raw=true"><img alt="homebridge-verified" src="https://github.com/iRayanKhan/Assets-Repo/blob/master/Tuya-Plugin-Branding.png?raw=true" width="500px"></a>
+
+# Homebridge-Tuya
+
 <a href="https://www.npmjs.com/package/homebridge-tuya"><img title="npm version" src="https://badgen.net/npm/v/homebridge-tuya" ></a>
 <a href="https://www.npmjs.com/package/homebridge-tuya"><img title="npm downloads" src="https://badgen.net/npm/dt/homebridge-tuya" ></a>
 
-</span>                                                                                                                                                                                                                                                                                                                                                                                                                      
-
+</span>
 
 
 Homebridge-tuya is a homebridge plugin that lets you control your Tuya based devices with Homekit. 
