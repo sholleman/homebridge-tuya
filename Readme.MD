@@ -28,6 +28,10 @@ To use this plugin, follow the steps below:
 
 To find your devices configuration parameters, please look at the Wiki.
 
+**Note** The wiki has some inconsitencies with V1 and 2. I will fix this, I justt need to wait for V2, before it's all up-to-date. 
+
+**To get ID and Key** Watch [this](https://www.youtube.com/watch?v=oq0JL_wicKg) video. 
+
 ## Issues
 
 If you spot any errors with the plugin, or have a question, feel free to open a issue.
