@@ -14,8 +14,8 @@ const GarageDoorAccessory = require('./lib/GarageDoorAccessory');
 const GarageDoorAccessory2 = require('./lib/GarageDoorAccessory2');
 const SimpleDimmerAccessory = require('./lib/SimpleDimmerAccessory');
 const SimpleBlindsAccessory = require('./lib/SimpleBlindsAccessory');
-const SimpleBlinds2Accessory = require('./lib/SimpleBlinds2Accessory');
-const SimpleBlinds3Accessory = require('./lib/SimpleBlinds3Accessory');
+const SimpleBlindsAccessory2 = require('./lib/SimpleBlindsAccessory2');
+const SimpleBlindsAccessory3= require('./lib/SimpleBlindsAccessory3');
 const SimpleHeaterAccessory = require('./lib/SimpleHeaterAccessory');
 const SimpleFanAccessory = require('./lib/SimpleFanAccessory');
 const SimpleFanLightAccessory = require('./lib/SimpleFanLightAccessory');
@@ -38,8 +38,8 @@ const CLASS_DEF = {
         garagedoor2: GarageDoorAccessory2,
     simpledimmer: SimpleDimmerAccessory,
     simpleblinds: SimpleBlindsAccessory,
-     simpleblinds2: SimpleBlinds2Accessory,
-        simpleblinds3: SimpleBlinds3Accessory,
+     simpleblinds2: SimpleBlindsAccessory2,
+        simpleblinds3: SimpleBlindsAccessory3,
     simpleheater: SimpleHeaterAccessory,
     fan: SimpleFanAccessory,
     fanlight: SimpleFanLightAccessory,
