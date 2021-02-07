@@ -19,6 +19,7 @@ const SimpleBlinds2Accessory = require('./lib/SimpleBlinds2Accessory');
 const SimpleHeaterAccessory = require('./lib/SimpleHeaterAccessory');
 const SimpleFanAccessory = require('./lib/SimpleFanAccessory');
 const SimpleFanLightAccessory = require('./lib/SimpleFanLightAccessory');
+const TreatlifeSimpleDimmerAccessory = require('./lib/TreatlifeSimpleDimmerAccessory')
 const SwitchAccessory = require('./lib/SwitchAccessory');
 const ValveAccessory = require('./lib/ValveAccessory');
 const OilDiffuserAccessory = require('./lib/OilDiffuserAccessory');
@@ -40,6 +41,7 @@ const CLASS_DEF = {
     convector: ConvectorAccessory,
     garagedoor: GarageDoorAccessory,
     simpledimmer: SimpleDimmerAccessory,
+    treatlifesimpledimmer: TreatlifeSimpleDimmerAccessory,
     simpleblinds: SimpleBlindsAccessory,
     simpleblinds2: SimpleBlinds2Accessory,
     simpleheater: SimpleHeaterAccessory,
